@@ -1,56 +1,52 @@
 # AnonyPic
 
-AnonyPic is an Android photo privacy tool currently in closed testing.
+**On-device Photo Privacy Tools for Android**
 
-It is designed to help users reduce privacy risks in photos directly on-device, without unnecessary cloud processing.
+AnonyPic is part of the TSI Dev Studio Android portfolio.
 
-## Current focus
+## What it does
 
-AnonyPic focuses on privacy-preserving photo processing, including:
+- On-device photo privacy workflows
+- Privacy-focused photo processing
+- No analytics
+- Designed for local processing
+- Camera and storage workflows where required
+- Built for privacy-conscious Android users
 
-- On-device photo analysis
-- Privacy-focused image processing
-- No unnecessary account requirement
-- No unnecessary cloud dependency
-- Local processing where possible
-- Simple workflow for preparing photos before sharing
-- Minimal data exposure
+## Product principles
 
-## Closed testing
+- On-device processing
+- No analytics
+- Minimal unnecessary data exposure
+- Privacy-first workflow
 
-AnonyPic is currently in closed testing on Google Play.
+## Public documentation
 
-Current testing focuses on:
+| Document | Purpose |
+| --- | --- |
+| [Getting Started](docs/getting-started.md) | Public setup and usage guidance |
+| [Privacy Model](docs/privacy-model.md) | Public user-facing documentation |
+| [Troubleshooting](docs/troubleshooting.md) | Public user-facing documentation |
+| [Security Policy](SECURITY.md) | Responsible private security reporting |
+| [Support](SUPPORT.md) | Support and official contact channels |
+| [Changelog](CHANGELOG.md) | Public product changes |
 
-- First-time experience
-- Photo import and processing flow
-- On-device privacy features
-- Export behavior
-- Performance and stability
-- General usability
+## Official links
 
-AnonyPic is not yet publicly released on Google Play.
+- Website: https://tsidevstudio.com
+- Google Play: https://play.google.com/store/apps/details?id=com.tsidev.anonypic3
+- TSI Dev Studio: https://tsidevstudio.com
 
-## Privacy approach
+## About this repository
 
-AnonyPic is designed around local processing and user control.
+This repository is for public product information, documentation, verification links and release-related resources.
 
-The app aims to minimize unnecessary data transfer and keep privacy-sensitive processing on-device whenever possible.
+Unless explicitly stated otherwise, the application source code is not published here.
 
-## TSI Dev Studio
+AnonyPic public documentation intentionally avoids implementation details about local processing, detection logic or internal data handling.
 
-AnonyPic is developed by TSI Dev Studio, an independent Android developer focused on privacy-first, local-first and practical mobile apps.
+## Developer
 
-Official website:
+**TSI Dev Studio**
 
 https://tsidevstudio.com
-
-Other projects include Xsilent, MicutVault, Nullun, Seabil, Zekro, Zizly, Annum and HEZX.
-
-## Contact
-
-General: contact@tsidevstudio.com
-
-App support: support@tsidevstudio.com
-
-Press & media: press@tsidevstudio.com
